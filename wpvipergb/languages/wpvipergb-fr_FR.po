@@ -1,0 +1,265 @@
+# Copyright (C) 2014 WP-ViperGB
+# This file is distributed under the same license as the WP-ViperGB package.
+# Translators:
+# FX Bénard <fxb@wp-translations.org>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"POT-Creation-Date: 2014-04-18 20:18:24+00:00\n"
+"PO-Revision-Date: 2017-09-23 19:42+0000\n"
+"Last-Translator: FX Bénard <fxb@wp-translations.org>\n"
+"Language-Team: French (France) (http://www.transifex.com/wp-translations/wp-vipergb/language/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Sourcecharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: _admin_menu.php:29
+msgid "Settings"
+msgstr "Paramètres"
+
+#: _admin_menu.php:61
+msgid "Options saved."
+msgstr "Options enregistrées."
+
+#: _admin_menu.php:67
+msgid "WP-ViperGB Options"
+msgstr "Options de WP-ViperGB"
+
+#: _admin_menu.php:69
+msgid "Manage Entries"
+msgstr "Gérer les commentaires"
+
+#: _admin_menu.php:73
+msgid ""
+"To add a Guestbook to your blog, simply create a new page, select it in the "
+"first combobox below, and click \"Save.\""
+msgstr "Pour ajouter un livre d'or à votre blog, créez simplement une page, sélectionnez-là dans la liste déroulante ci-dessous et cliquez sur \"Enregistrer\"."
+
+#: _admin_menu.php:80
+msgid "Main Settings"
+msgstr "Configuration générale"
+
+#: _admin_menu.php:82
+msgid "Guestbook Page"
+msgstr "Page du Livre d'or"
+
+#: _admin_menu.php:93
+msgid "Guestbook Style"
+msgstr "Style du Livre d'or"
+
+#: _admin_menu.php:107
+msgid "Extra Settings"
+msgstr "Réglages additionnels"
+
+#: _admin_menu.php:108
+msgid "Entries Per Page"
+msgstr "Commentaires par page"
+
+#: _admin_menu.php:109
+msgid "Use Digg-style pagination"
+msgstr "Utiliser le style de pagination de Digg"
+
+#: _admin_menu.php:110
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Inverser l'ordre (du plus ancien au plus récent)"
+
+#: _admin_menu.php:111
+msgid "Allow Image Uploads"
+msgstr "Autoriser le téléchargement d'image"
+
+#: _admin_menu.php:112
+msgid "Max Image Filesize (kb)"
+msgstr "Poids autorisé des fichiers images (kb)"
+
+#: _admin_menu.php:113
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr "Seuls les utilisateurs enregistrés peuvent signer le livre d'or."
+
+#: _admin_menu.php:114
+msgid "Show Browser &amp; OS Icons"
+msgstr "Afficher les icônes de navigateur &amp; du système d'exploitation"
+
+#: _admin_menu.php:115
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Afficher les icônes drapeaux (nécessite %s)"
+
+#: _admin_menu.php:116
+msgid ""
+"Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much"
+" appreciated)"
+msgstr "Inclure un lien vers <a href=\"%s\">la page du plugin</a> (facultatif mais très apprécié)"
+
+#: _admin_menu.php:118
+msgid "Save"
+msgstr "Enregistrer"
+
+#: _admin_menu.php:122
+msgid "Development"
+msgstr "Développement"
+
+#: _admin_menu.php:123
+msgid ""
+"Many hours have gone into making this plugin as clean and easy to use as "
+"possible. Although I offer it to you freely, please keep in mind that each "
+"hour spent on it was an hour that could've also gone towards income-"
+"generating work. If you find it useful, a small donation would be greatly "
+"appreciated :)"
+msgstr "Beaucoup d'heures ont été passées à réaliser ce plugin pour le rendre efficace et facile d'emploi. Bien que je vous l'offre gratuitement, gardez à l'esprit que chaque heure passée dessus aurait pu être utilisée à des fins lucratives. Si vous trouvez mon travail utile, un petit don sera grandement apprécié. :)"
+
+#: _admin_menu.php:134
+msgid "Credits"
+msgstr "Crédits"
+
+#: _admin_menu.php:135
+msgid ""
+"WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB utilise du code de plusieurs autres plugins.  Dont :"
+
+#: _admin_menu.php:137
+msgid ""
+"Allow users to embed images in their guestbook entries. <i>This "
+"functionality is included by default, but must be explicitly enabled "
+"above.</i>"
+msgstr "Autoriser les utilisateurs à ajouter des images à leurs commentaires. <i>Cette fonctionnalité est incluse par défaut mais doit être activée ci-dessus.</i>"
+
+#: _admin_menu.php:138
+msgid ""
+"Show a browser and operating system icon in each visitor's guestbook entry."
+"  <i>This functionality is included by default.</i>"
+msgstr "Afficher une icône du navigateur et du système d'exploitation sur chaque commentaire.  <i>Cette fonctionnalité est incluse par défaut.</i>"
+
+#: _admin_menu.php:139
+msgid ""
+"Show a national flag in each visitor's guestbook entry.  <i>This plugin must"
+" be installed separately.</i>"
+msgstr "Afficher un drapeau national sur chaque commentaire.  <i>Ce plugin doit être installé séparément.</i>"
+
+#: _diggstyle.php:43 _diggstyle.php:45
+msgid "prev"
+msgstr "préc."
+
+#: _diggstyle.php:109 _diggstyle.php:111
+msgid "next"
+msgstr "suiv."
+
+#: _output_guestbook.php:88
+msgid "Show Guestbook"
+msgstr "Consulter"
+
+#: _output_guestbook.php:92
+msgid "Sign Guestbook"
+msgstr "Signer"
+
+#: _output_guestbook.php:101
+msgid "entries"
+msgstr "messages"
+
+#: _output_guestbook.php:111
+msgid "Page"
+msgstr "Page"
+
+#: _output_guestbook.php:158
+msgid "No entries yet"
+msgstr "Pas encore de commentaire"
+
+#: _output_guestbook.php:175
+msgid "EntryNo"
+msgstr "Annonce n°"
+
+#: _output_guestbook.php:184
+msgid "Date"
+msgstr "Date"
+
+#: _output_guestbook.php:186
+msgid "H:i"
+msgstr "H:i"
+
+#: _output_guestbook.php:186
+msgid "m.d.Y"
+msgstr "d.M.Y"
+
+#: _output_guestbook.php:214
+msgid "This entry is awaiting moderation"
+msgstr "Ce commentaire est en attente de modération"
+
+#: _output_guestbook.php:221
+msgid "hidden"
+msgstr "masqu&eacute;"
+
+#: _output_guestbook.php:234 _output_guestbook.php:236
+msgid "Powered by"
+msgstr "R&eacute;alis&eacute; avec"
+
+#: _output_guestbook.php:274
+msgid ""
+"Sorry, but only registered users are allowed to sign this guestbook.<br "
+"/>Please create a user account, or login to sign."
+msgstr "Vous devez être membres du site pour signer le livre d'or. <br/>Veuillez  créer un compte ou connectez-vous."
+
+#: _output_guestbook.php:280
+msgid "Name"
+msgstr "Nom"
+
+#: _output_guestbook.php:285 _output_guestbook.php:294
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#: _output_guestbook.php:289
+msgid "Email"
+msgstr "E-mail"
+
+#: _output_guestbook.php:298
+msgid "Homepage"
+msgstr "Page Web"
+
+#: _output_guestbook.php:303
+msgid "(optional)"
+msgstr "(facultatif)"
+
+#: _output_guestbook.php:320
+msgid "*If you'd like to customize these values, please "
+msgstr "*Si vous voulez personnaliser ces valeurs, veuillez vous "
+
+#: _output_guestbook.php:320
+msgid "Logout"
+msgstr "déconnecter"
+
+#: _output_guestbook.php:325
+msgid "Text"
+msgstr "Message"
+
+#: _output_guestbook.php:327
+msgid "Send"
+msgstr "Envoyer"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-ViperGB"
+msgstr "WP-ViperGB"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.justin-klein.com/projects/wp-vipergb"
+msgstr "http://www.justin-klein.com/projects/wp-vipergb"
+
+#. Description of the plugin/theme
+msgid ""
+"Create a stylish and user-friendly Guestbook for your blog.  Designed to "
+"replicate the appearance and behavior of the discontinued <a "
+"href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a> project."
+msgstr "Créer un Livre d'or stylisé et agréable pour votre blog. Conçu pour reproduire l'apparence et le comportement du regretté projet <a href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a>."
+
+#. Author of the plugin/theme
+msgid "Justin Klein"
+msgstr "Justin Klein"
+
+#. Author URI of the plugin/theme
+msgid "http://www.justin-klein.com/"
+msgstr "http://www.justin-klein.com/"
