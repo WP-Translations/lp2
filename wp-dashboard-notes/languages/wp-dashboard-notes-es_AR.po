@@ -1,0 +1,123 @@
+# Copyright (C) 2014 WP Dashboard Notes
+# This file is distributed under the same license as the WP Dashboard Notes package.
+# Translators:
+# Damian Axel Xavier <dax@infoir.com.ar>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Dashboard Notes\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-dashboard-notes\n"
+"POT-Creation-Date: 2014-09-02 09:03:33+00:00\n"
+"PO-Revision-Date: 2017-09-23 20:41+0000\n"
+"Last-Translator: Damian Axel Xavier <dax@infoir.com.ar>\n"
+"Language-Team: Spanish (Argentina) (http://www.transifex.com/wp-translations/wp-dashboard-notes/language/es_AR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-note-post-type.php:39
+msgid "Notes"
+msgstr "Notas"
+
+#: includes/class-note-post-type.php:40
+msgid "Note"
+msgstr "Nota"
+
+#: includes/class-note-post-type.php:41
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: includes/class-note-post-type.php:42
+msgid "Add New Note"
+msgstr "Añadir Nueva Nota"
+
+#: includes/class-note-post-type.php:43
+msgid "Edit Note"
+msgstr "Editar Nota"
+
+#: includes/class-note-post-type.php:44
+msgid "New Note"
+msgstr "Nueva Nota"
+
+#: includes/class-note-post-type.php:45
+msgid "View Note"
+msgstr "Ver Nota"
+
+#: includes/class-note-post-type.php:46
+msgid "Search Notes"
+msgstr "Buscar Notas"
+
+#: includes/class-note-post-type.php:47
+msgid "No Notes"
+msgstr "No hay Notas"
+
+#: includes/class-note-post-type.php:48
+msgid "No Notes found in Trash"
+msgstr "Ninguna Nota hallada en la Papelera"
+
+#: includes/class-wpdn-ajax.php:108 includes/class-wpdn-ajax.php:128
+msgid "New note"
+msgstr "Nueva nota"
+
+#: includes/templates/note-list.php:9
+msgid "List item"
+msgstr "Listar ítem"
+
+#: includes/templates/note-list.php:16 includes/templates/note.php:15
+msgid "Just me"
+msgstr "Solo yo"
+
+#: includes/templates/note-list.php:20 includes/templates/note.php:19
+msgid "Everyone"
+msgstr "Cualquiera"
+
+#: includes/templates/note-list.php:24 includes/templates/note.php:23
+msgid "Visibility:"
+msgstr "Visibilidad:"
+
+#: includes/templates/note-list.php:28 includes/templates/note.php:27
+msgid "Give me a color!"
+msgstr "¿Dame un color!"
+
+#: includes/templates/note-list.php:41
+msgid "Convert to regular note"
+msgstr "Convertir a nota habitual"
+
+#: includes/templates/note-list.php:45 includes/templates/note.php:44
+msgid "Add a new note"
+msgstr "Añadir una nota nueva"
+
+#: includes/templates/note-list.php:50 includes/templates/note.php:48
+msgid "Delete note"
+msgstr "Borrar nota"
+
+#: includes/templates/note.php:40
+msgid "Convert to list note"
+msgstr "Convertir a lista de notas"
+
+#: wp-dashboard-notes.php:218
+msgid "Add note"
+msgstr "Añadir nota"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Dashboard Notes"
+msgstr "WP Dashboard Notes"
+
+#. #-#-#-#-#  wp-dashboard-notes.pot (WP Dashboard Notes 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-dashboard-notes.pot (WP Dashboard Notes 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.jeroensormani.com"
+msgstr "http://www.jeroensormani.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Working with multiple persons on a website? Want to make notes? You can do "
+"just that with WP Dashboard Notes. Create beautiful notes with a nice user "
+"experience."
+msgstr "¿Trabajando múltiples personas en un sitio web? ¿Querés crear notas? Podés hacerlo con WP Dashboard Note. Crear hermosas notas con una agradable experiencia de usuario."
+
+#. Author of the plugin/theme
+msgid "Jeroen Sormani"
+msgstr "Jeroen Sormani"
