@@ -1,0 +1,265 @@
+# Copyright (C) 2014 WP-ViperGB
+# This file is distributed under the same license as the WP-ViperGB package.
+# Translators:
+# Thom, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ViperGB\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org/\n"
+"POT-Creation-Date: 2014-04-18 20:18:24+00:00\n"
+"PO-Revision-Date: 2017-09-23 19:42+0000\n"
+"Last-Translator: Thom\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/wp-translations/wp-vipergb/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Keywordslist: __;_e;__ngettext:1,2;_n:1,2;__ngettext_  noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Sourcecharset: utf-8\n"
+"X-Textdomain-Support: yes\n"
+
+#: _admin_menu.php:29
+msgid "Settings"
+msgstr "Instellingen"
+
+#: _admin_menu.php:61
+msgid "Options saved."
+msgstr "Opties opgeslagen."
+
+#: _admin_menu.php:67
+msgid "WP-ViperGB Options"
+msgstr "Opties WP-ViperGB"
+
+#: _admin_menu.php:69
+msgid "Manage Entries"
+msgstr "Berichten beheren"
+
+#: _admin_menu.php:73
+msgid ""
+"To add a Guestbook to your blog, simply create a new page, select it in the "
+"first combobox below, and click \"Save.\""
+msgstr "Om een gastenbook aan je blog toe te voegen, maak je een nieuwe pagina, selecteer je deze in de eerste combobox hieronder en klik \"Bewaar.\""
+
+#: _admin_menu.php:80
+msgid "Main Settings"
+msgstr "Algemene instellingen"
+
+#: _admin_menu.php:82
+msgid "Guestbook Page"
+msgstr "Gastenboekpagina"
+
+#: _admin_menu.php:93
+msgid "Guestbook Style"
+msgstr "Gastenboekstijl"
+
+#: _admin_menu.php:107
+msgid "Extra Settings"
+msgstr "Extra instellingen"
+
+#: _admin_menu.php:108
+msgid "Entries Per Page"
+msgstr "Berichten per pagina"
+
+#: _admin_menu.php:109
+msgid "Use Digg-style pagination"
+msgstr "Digg-stijl paginering gebruiken"
+
+#: _admin_menu.php:110
+msgid "Reverse Order (list from oldest to newest)"
+msgstr "Omgekeerde volgorde (lijst van oud naar nieuw)"
+
+#: _admin_menu.php:111
+msgid "Allow Image Uploads"
+msgstr "Uploaden afbeeldingen toestaan"
+
+#: _admin_menu.php:112
+msgid "Max Image Filesize (kb)"
+msgstr "Max afbeeldingsgrootte (kb)"
+
+#: _admin_menu.php:113
+msgid "Don't allow anonymous signatures (aka only allow registered users)"
+msgstr "Anonieme handtekeningen niet toestaan (aka alleen geregistreerde gebruikers toestaan)"
+
+#: _admin_menu.php:114
+msgid "Show Browser &amp; OS Icons"
+msgstr "Browser- &amp; OS-iconen tonen"
+
+#: _admin_menu.php:115
+msgid "Show Flag Icons (Requires %s)"
+msgstr "Vlagiconen tonen (Vereist %s)"
+
+#: _admin_menu.php:116
+msgid ""
+"Include a Link to the <a href=\"%s\">plugin homepage</a> (optional, but much"
+" appreciated)"
+msgstr "Voeg een link toe naar de <a href=\"%s\">plugin homepagina</a> (optioneel maar wordt zeer gewaardeerd)"
+
+#: _admin_menu.php:118
+msgid "Save"
+msgstr "Opslaan"
+
+#: _admin_menu.php:122
+msgid "Development"
+msgstr "Ontwikkeling"
+
+#: _admin_menu.php:123
+msgid ""
+"Many hours have gone into making this plugin as clean and easy to use as "
+"possible. Although I offer it to you freely, please keep in mind that each "
+"hour spent on it was an hour that could've also gone towards income-"
+"generating work. If you find it useful, a small donation would be greatly "
+"appreciated :)"
+msgstr "Heel veel uren zijn besteed om deze plugin zo eenvoudig en mooi als mogelijk te maken. Hoewel ik deze plugin gratis ter beschikking stel, moet je wel in ogenschouw nemen dat de tijd die ik hier aan heb besteed ook aan inkomensgerelateerd werk had kunnen worden besteed. Als je deze plugin handig vindt, zou een kleine bijdrage zeer gewaardeerd worden."
+
+#: _admin_menu.php:134
+msgid "Credits"
+msgstr "Credits"
+
+#: _admin_menu.php:135
+msgid ""
+"WP-ViperGB takes advantage of code from several other plugins.  These are:"
+msgstr "WP-ViperGB maakt gebruik van code van diverse andere plugins.  Deze zijn:"
+
+#: _admin_menu.php:137
+msgid ""
+"Allow users to embed images in their guestbook entries. <i>This "
+"functionality is included by default, but must be explicitly enabled "
+"above.</i>"
+msgstr "Laat gebruikers foto's toevoegen aan hun reacties. <i>Deze funtionaliteit is standaard aanwezig, maar moet hierboven daarwerkelijk geselecteerd worden.</i>"
+
+#: _admin_menu.php:138
+msgid ""
+"Show a browser and operating system icon in each visitor's guestbook entry."
+"  <i>This functionality is included by default.</i>"
+msgstr "Laat de browser en OS iconen zien bij iedere reactie van een gebruiker.  <i>Deze funtionaliteit is standaard aanwezig.</i>"
+
+#: _admin_menu.php:139
+msgid ""
+"Show a national flag in each visitor's guestbook entry.  <i>This plugin must"
+" be installed separately.</i>"
+msgstr "Laat een vlag-icoon zien bij elke reactie in het gastenboek.  <i>Deze plugin moet separaat geinstalleerd worden.</i>"
+
+#: _diggstyle.php:43 _diggstyle.php:45
+msgid "prev"
+msgstr "vorige"
+
+#: _diggstyle.php:109 _diggstyle.php:111
+msgid "next"
+msgstr "volgende"
+
+#: _output_guestbook.php:88
+msgid "Show Guestbook"
+msgstr "Gastenboek tonen"
+
+#: _output_guestbook.php:92
+msgid "Sign Guestbook"
+msgstr "Gastenboek tekenen"
+
+#: _output_guestbook.php:101
+msgid "entries"
+msgstr "berichten"
+
+#: _output_guestbook.php:111
+msgid "Page"
+msgstr "Pagina"
+
+#: _output_guestbook.php:158
+msgid "No entries yet"
+msgstr "Nog geen berichten"
+
+#: _output_guestbook.php:175
+msgid "EntryNo"
+msgstr "BerichtNum"
+
+#: _output_guestbook.php:184
+msgid "Date"
+msgstr "Datum"
+
+#: _output_guestbook.php:186
+msgid "H:i"
+msgstr "H:i"
+
+#: _output_guestbook.php:186
+msgid "m.d.Y"
+msgstr "m.d.Y"
+
+#: _output_guestbook.php:214
+msgid "This entry is awaiting moderation"
+msgstr "Dit bericht wacht op moderatie"
+
+#: _output_guestbook.php:221
+msgid "hidden"
+msgstr "verborgen"
+
+#: _output_guestbook.php:234 _output_guestbook.php:236
+msgid "Powered by"
+msgstr "Mede mogelijk gemaakt door"
+
+#: _output_guestbook.php:274
+msgid ""
+"Sorry, but only registered users are allowed to sign this guestbook.<br "
+"/>Please create a user account, or login to sign."
+msgstr "Sorry, maar alleen geregistreerde gebruikers hebben toestemming om dit gastenboek te tekenen.<br />Maak a.u.b. een gebruikersaccount aan of log in om te tekenen."
+
+#: _output_guestbook.php:280
+msgid "Name"
+msgstr "Naam"
+
+#: _output_guestbook.php:285 _output_guestbook.php:294
+msgid "(required)"
+msgstr "(verplicht)"
+
+#: _output_guestbook.php:289
+msgid "Email"
+msgstr "E-mail"
+
+#: _output_guestbook.php:298
+msgid "Homepage"
+msgstr "Homepagina"
+
+#: _output_guestbook.php:303
+msgid "(optional)"
+msgstr "(optioneel)"
+
+#: _output_guestbook.php:320
+msgid "*If you'd like to customize these values, please "
+msgstr "*Als u deze waarden graag wilt aanpassen, a.u.b."
+
+#: _output_guestbook.php:320
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: _output_guestbook.php:325
+msgid "Text"
+msgstr "Tekst"
+
+#: _output_guestbook.php:327
+msgid "Send"
+msgstr "Versturen"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-ViperGB"
+msgstr "WP-ViperGB"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.justin-klein.com/projects/wp-vipergb"
+msgstr "http://www.justin-klein.com/projects/wp-vipergb"
+
+#. Description of the plugin/theme
+msgid ""
+"Create a stylish and user-friendly Guestbook for your blog.  Designed to "
+"replicate the appearance and behavior of the discontinued <a "
+"href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a> project."
+msgstr "Maak een stijlvol en gebruiksvriendelijk gastenboek voor uw blog. Ontworpen om het uiterlijk en gedrag van het stopgezette project <a href=\"http://www.vipergb.de.vu/\">Viper Guestbook</a> te repliceren."
+
+#. Author of the plugin/theme
+msgid "Justin Klein"
+msgstr "Justin Klein"
+
+#. Author URI of the plugin/theme
+msgid "http://www.justin-klein.com/"
+msgstr "http://www.justin-klein.com/"
