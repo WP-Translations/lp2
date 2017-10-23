@@ -1,0 +1,123 @@
+# Copyright (C) 2014 WP Dashboard Notes
+# This file is distributed under the same license as the WP Dashboard Notes package.
+# Translators:
+# Thom, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Dashboard Notes\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-dashboard-notes\n"
+"POT-Creation-Date: 2014-09-02 09:03:33+00:00\n"
+"PO-Revision-Date: 2017-09-23 20:12+0000\n"
+"Last-Translator: Thom\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/wp-translations/wp-dashboard-notes/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-note-post-type.php:39
+msgid "Notes"
+msgstr "Opmerkingen"
+
+#: includes/class-note-post-type.php:40
+msgid "Note"
+msgstr "Opmerking"
+
+#: includes/class-note-post-type.php:41
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/class-note-post-type.php:42
+msgid "Add New Note"
+msgstr "Nieuwe opmerking toevoegen"
+
+#: includes/class-note-post-type.php:43
+msgid "Edit Note"
+msgstr "Opmerking bewerken"
+
+#: includes/class-note-post-type.php:44
+msgid "New Note"
+msgstr "Nieuwe opmerking"
+
+#: includes/class-note-post-type.php:45
+msgid "View Note"
+msgstr "Opmerking tonen"
+
+#: includes/class-note-post-type.php:46
+msgid "Search Notes"
+msgstr "Opmerkingen zoeken"
+
+#: includes/class-note-post-type.php:47
+msgid "No Notes"
+msgstr "Geen opmerkingen"
+
+#: includes/class-note-post-type.php:48
+msgid "No Notes found in Trash"
+msgstr "Geen opmerkingen gevonden in de prullenbak"
+
+#: includes/class-wpdn-ajax.php:108 includes/class-wpdn-ajax.php:128
+msgid "New note"
+msgstr "Nieuwe opmerking"
+
+#: includes/templates/note-list.php:9
+msgid "List item"
+msgstr "Lijst-item"
+
+#: includes/templates/note-list.php:16 includes/templates/note.php:15
+msgid "Just me"
+msgstr "Alleen ik"
+
+#: includes/templates/note-list.php:20 includes/templates/note.php:19
+msgid "Everyone"
+msgstr "Iedereen"
+
+#: includes/templates/note-list.php:24 includes/templates/note.php:23
+msgid "Visibility:"
+msgstr "Zichtbaarheid:"
+
+#: includes/templates/note-list.php:28 includes/templates/note.php:27
+msgid "Give me a color!"
+msgstr "Geef me een kleur!"
+
+#: includes/templates/note-list.php:41
+msgid "Convert to regular note"
+msgstr "Naar reguliere opmerking converteren"
+
+#: includes/templates/note-list.php:45 includes/templates/note.php:44
+msgid "Add a new note"
+msgstr "Een nieuwe opmerking toevoegen"
+
+#: includes/templates/note-list.php:50 includes/templates/note.php:48
+msgid "Delete note"
+msgstr "Opmerking verwijderen"
+
+#: includes/templates/note.php:40
+msgid "Convert to list note"
+msgstr "Naar lijstopmerking converteren"
+
+#: wp-dashboard-notes.php:218
+msgid "Add note"
+msgstr "Opmerking toevoegen"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Dashboard Notes"
+msgstr "WP Dashboard Notes"
+
+#. #-#-#-#-#  wp-dashboard-notes.pot (WP Dashboard Notes 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-dashboard-notes.pot (WP Dashboard Notes 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.jeroensormani.com"
+msgstr "http://www.jeroensormani.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Working with multiple persons on a website? Want to make notes? You can do "
+"just that with WP Dashboard Notes. Create beautiful notes with a nice user "
+"experience."
+msgstr "Werken met meerdere personen op een website? Wilt u opmerkingen maken? U kunt dat juist doen met WP Dashboard Notes. Maak prachtige opmerkingen aan met een fijne gebruikerservaring."
+
+#. Author of the plugin/theme
+msgid "Jeroen Sormani"
+msgstr "Jeroen Sormani"
